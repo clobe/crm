@@ -5,6 +5,10 @@
             {
                 "appID": "7BDKEPMWR2.com.xinchao.dcrm",
                 "paths": [ "*" ]
+            },
+            {
+                "appID": "7BDKEPMWR2.com.xinchao.dcrm.sit",
+                "paths": [ "*" ]
             }
         ]
     }
